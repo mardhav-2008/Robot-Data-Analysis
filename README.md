@@ -22,6 +22,7 @@ NCDTech/real-robot-driving-sessions
 - Motor PWM analysis
 
 ## Project Structure
+```
 ├── data
 │   ├── session_1.csv
 │   ├── session_2.csv
@@ -33,7 +34,7 @@ NCDTech/real-robot-driving-sessions
 │       ├── __init__.py
 │       └── main.ipynb
 └── uv.lock
-
+```
 
 
 ## Future Work
