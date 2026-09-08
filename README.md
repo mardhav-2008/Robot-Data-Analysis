@@ -22,7 +22,19 @@ NCDTech/real-robot-driving-sessions
 - Motor PWM analysis
 
 ## Project Structure
-...
+├── data
+│   ├── session_1.csv
+│   ├── session_2.csv
+│   └── session_3.csv
+├── pyproject.toml
+├── README.md
+├── src
+│   └── robot_sensor_analysis
+│       ├── __init__.py
+│       └── main.ipynb
+└── uv.lock
+
+
 
 ## Future Work
 - IMU analysis
